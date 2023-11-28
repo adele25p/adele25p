@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adele25p
+- 👋 Hi, I’m Adele
 - 👀 I’m interested in Japan
 - 🌱 I’m currently learning Computer Science
 - 📚 I'm in the first year of C.M.I Computer Science in Poitiers
