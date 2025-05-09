@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile+!;Passionate+Computer+Science+Student+🌱;Thank+you+for+visiting+💚;&font=Tsukimi+Rounded&size=17&pause=1000&color=8BC665&center=true&width=500&height=60" alt="Typing SVG" style="width: 100vw;"/>
-</p>
-
-<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile+!;Passionate+Computer+Science+Student+🌱;Thank+you+for+visiting+💚;&font=Tsukimi+Rounded&size=17&pause=1000&color=8BC665&center=true&width=500&height=30" alt="Typing SVG" style="width: 100vw;"/>
   <img src="https://media.giphy.com/media/eHQ5BsgBIBIGI/giphy.gif?cid=790b76117dc36e6c30f7a21bc3210765eedf10e1197c0eaa&ep=v1_user_favorites&rid=giphy.gif&ct=g" alt="Gif Green Ghibli" style="width: 100vw;"/>
 </p>
 
@@ -42,10 +39,12 @@
   </a>
 </p>
 
-<p>
-  <img src="https://media.giphy.com/media/ym6PmLonLGfv2/giphy.gif?cid=ecf05e476da23a582f33d9868cfa94242bc2a3094b03949f&ep=v1_user_favorites&rid=giphy.gif&ct=g" alt="GifTeaGhibli" style="width: 52px;" />
+<p align="right">
   <a href="https://adele25p.github.io">
     <img src="https://img.shields.io/badge/Visit_my_Website-81A574?style=for-the-badge" alt="My Website" />
+  </a>
+  <a href="https://adele25p.github.io">
+    <img src="https://media.giphy.com/media/ym6PmLonLGfv2/giphy.gif?cid=ecf05e476da23a582f33d9868cfa94242bc2a3094b03949f&ep=v1_user_favorites&rid=giphy.gif&ct=g" alt="GifTeaGhibli" style="width: 53px;" />
   </a>
 </p>
 
